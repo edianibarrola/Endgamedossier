@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "dossier-001",
+    "caseNumber": "TVA-001",
+    "name": "Tony Stark",
+    "alias": "Iron Man",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Dies using the Stones to erase Thanos and his army.",
+    "endpoint": "His death remains permanent in released Earth-616 canon; later stories preserve his sacrifice and legacy.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-002",
+    "caseNumber": "TVA-002",
+    "name": "Steve Rogers",
+    "alias": "Captain America",
+    "status": "Temporal anomaly",
+    "statusKey": "unknown",
+    "branch": true,
+    "encore": true,
+    "endgame": "Returns the Stones, chooses a life with Peggy, then appears elderly in 2023 to pass the shield to Sam.",
+    "endpoint": "ENCORE changes the endpoint: TVA-era Loki arrives at Steve and Peggy’s home during their dance and says he can help “both” of them. What happens next is unresolved.",
+    "endpointEra": "branch past / Encore",
+    "reality": "Prime → branch history",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-002"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-003",
+    "caseNumber": "TVA-003",
+    "name": "Bruce Banner",
+    "alias": "Hulk",
+    "status": "Collected by Doom",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": true,
+    "endgame": "Smart Hulk performs the restoration snap and survives with a severely injured arm.",
+    "endpoint": "After later appearances and a Savage Hulk relapse in Brand New Day, Bruce self-isolates underground. ENCORE shows Doctor Doom arriving to “collect” him; Bruce/Hulk vanish amid green runes.",
+    "endpointEra": "current era",
+    "reality": "Prime",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-002"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-004",
+    "caseNumber": "TVA-004",
+    "name": "Thor",
+    "alias": "God of Thunder",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Leaves New Asgard with the Guardians after Endgame.",
+    "endpoint": "Love and Thunder separates him from the Guardians; after Jane’s death and Gorr’s defeat, Thor becomes guardian to Gorr’s daughter Love.",
+    "endpointEra": "post-Love and Thunder",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-003"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-005",
+    "caseNumber": "TVA-005",
+    "name": "Natasha Romanoff",
+    "alias": "Black Widow",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Sacrifices herself so Clint can obtain the Soul Stone.",
+    "endpoint": "Remains dead in the prime timeline. Black Widow expands her earlier history but does not reverse the sacrifice.",
+    "endpointEra": "2014 Vormir",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-006",
+    "caseNumber": "TVA-006",
+    "name": "Clint Barton",
+    "alias": "Hawkeye / Ronin",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Survives Vormir and the final battle, then reunites with his restored family.",
+    "endpoint": "Hawkeye forces Clint to confront his Ronin past, partner with Kate Bishop and reconcile with Yelena; he returns home for Christmas.",
+    "endpointEra": "post-Hawkeye",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-004"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-007",
+    "caseNumber": "TVA-007",
+    "name": "James Rhodes",
+    "alias": "War Machine",
+    "status": "Alive; identity gap",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Fights in the final battle and attends Tony’s funeral.",
+    "endpoint": "Secret Invasion reveals a Skrull replaced Rhodey for an unspecified period. The real Rhodey is rescued unable to walk unaided. The show does not definitively date the replacement, leaving Endgame-Rhodey identity timing unresolved.",
+    "endpointEra": "post-Secret Invasion",
+    "reality": "Prime",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-005"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-008",
+    "caseNumber": "TVA-008",
+    "name": "Scott Lang",
+    "alias": "Ant-Man",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Returns from the Quantum Realm, inspires the Time Heist and reunites with Cassie.",
+    "endpoint": "Quantumania sends the family into the Quantum Realm; Scott and Hope escape after confronting Kang, though Scott remains uneasy about Kang’s warning.",
+    "endpointEra": "post-Quantumania",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-006"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-009",
+    "caseNumber": "TVA-009",
+    "name": "Carol Danvers",
+    "alias": "Captain Marvel",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Rescues Tony/Nebula, helps kill 2018 Thanos and returns for the final battle.",
+    "endpoint": "The Marvels ends with Carol in the prime universe after the Kree crisis while Monica is stranded in another reality.",
+    "endpointEra": "post-The Marvels",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-007"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-010",
+    "caseNumber": "TVA-010",
+    "name": "Nebula",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Kills her 2014 self and helps defeat Thanos.",
+    "endpoint": "Guardians Vol. 3 ends with Nebula staying on Knowhere to rebuild and lead its community.",
+    "endpointEra": "post-GOTG3",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-008"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-011",
+    "caseNumber": "TVA-011",
+    "name": "Rocket",
+    "alias": "Rocket Raccoon",
+    "status": "Alive / team leader",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Surviving Guardian; participates in Time Heist and final battle.",
+    "endpoint": "Guardians Vol. 3 makes Rocket captain of a new Guardians lineup with Groot, Kraglin, Cosmo, Adam Warlock, Phyla and Blurp.",
+    "endpointEra": "post-GOTG3",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-008"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-012",
+    "caseNumber": "TVA-012",
+    "name": "Pepper Potts",
+    "alias": "Rescue",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Joins the final battle in Rescue armor and comforts Tony as he dies.",
+    "endpoint": "Raises Morgan after Tony’s death. No later released MCU appearance establishes a newer personal endpoint.",
+    "endpointEra": "post-2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-013",
+    "caseNumber": "TVA-013",
+    "name": "Thanos",
+    "alias": "Mad Titan",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Destroys the Stones; Thor beheads him at the Garden.",
+    "endpoint": "Dead. Distinct from the 2014 Thanos who later invades 2023.",
+    "endpointEra": "2018",
+    "reality": "Prime 2018",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-014",
+    "caseNumber": "TVA-014",
+    "name": "Thanos (2014)",
+    "alias": "Mad Titan",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": true,
+    "encore": false,
+    "endgame": "Learns of the Avengers’ plan through Nebula and jumps forward to attack the Compound.",
+    "endpoint": "Tony’s snap dusts him and his invading forces.",
+    "endpointEra": "2023 via 2014",
+    "reality": "2014 branch",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-015",
+    "caseNumber": "TVA-015",
+    "name": "Gamora",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "branch",
+    "branch": true,
+    "encore": false,
+    "endgame": "2014 Gamora defects from Thanos and survives Tony’s snap; she is not the Gamora sacrificed in Infinity War.",
+    "endpoint": "Guardians Vol. 3 shows her living with the Ravagers. She reconnects with the Guardians but returns to her Ravager family.",
+    "endpointEra": "post-GOTG3",
+    "reality": "2014 branch",
+    "legacyConfidence": "82%",
+    "sourceIds": [
+      "source-008"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-016",
+    "caseNumber": "TVA-016",
+    "name": "Peter Quill",
+    "alias": "Star-Lord",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored, fights Thanos and later searches for 2014 Gamora.",
+    "endpoint": "Guardians Vol. 3 ends with Quill leaving the team and returning to Earth to live with his grandfather.",
+    "endpointEra": "post-GOTG3",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-008"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-017",
+    "caseNumber": "TVA-017",
+    "name": "Peter Parker",
+    "alias": "Spider-Man",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored by Hulk; fights in the final battle and reunites with Tony before Tony’s death.",
+    "endpoint": "No Way Home ends with the world forgetting Peter Parker. Brand New Day (2026) follows him fighting crime full-time while his former friends move on and intersects with Banner’s latest arc.",
+    "endpointEra": "Brand New Day era",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-009"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-018",
+    "caseNumber": "TVA-018",
+    "name": "Stephen Strange",
+    "alias": "Doctor Strange",
+    "status": "Alive / multiversal mission",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; coordinates portals and signals Tony that this is the winning outcome.",
+    "endpoint": "After Multiverse of Madness, Strange manifests a third eye and leaves with Clea to address an incursion.",
+    "endpointEra": "post-Multiverse of Madness",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-010"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-019",
+    "caseNumber": "TVA-019",
+    "name": "Wong",
+    "alias": "Sorcerer Supreme",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; helps marshal the portal armies.",
+    "endpoint": "Remains Sorcerer Supreme through his latest released appearances.",
+    "endpointEra": "post-Multiverse of Madness",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-010"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-020",
+    "caseNumber": "TVA-020",
+    "name": "T’Challa",
+    "alias": "Black Panther",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored and leads Wakandan forces into the final battle.",
+    "endpoint": "Wakanda Forever establishes that T’Challa later dies from an illness; Shuri eventually takes the Black Panther mantle.",
+    "endpointEra": "before Wakanda Forever",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-011"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-021",
+    "caseNumber": "TVA-021",
+    "name": "Shuri",
+    "alias": "Black Panther",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; fights in the portal battle and attends Tony’s funeral.",
+    "endpoint": "After T’Challa and Ramonda’s deaths, Shuri recreates the heart-shaped herb, becomes Black Panther, defeats Namor but chooses peace, and later meets T’Challa’s son Toussaint.",
+    "endpointEra": "post-Wakanda Forever",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-011"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-022",
+    "caseNumber": "TVA-022",
+    "name": "Okoye",
+    "alias": "Midnight Angel",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Survives the Blip and joins the final battle.",
+    "endpoint": "Wakanda Forever removes her from the Dora Milaje; she later uses Midnight Angel armor and frees Everett Ross.",
+    "endpointEra": "post-Wakanda Forever",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-011"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-023",
+    "caseNumber": "TVA-023",
+    "name": "M’Baku",
+    "alias": "Jabari leader",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored and joins the final battle.",
+    "endpoint": "Wakanda Forever ends with M’Baku presenting himself at the throne challenge while Shuri is absent; the film stops short of showing a coronation.",
+    "endpointEra": "post-Wakanda Forever",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-011"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-024",
+    "caseNumber": "TVA-024",
+    "name": "Wanda Maximoff",
+    "alias": "Scarlet Witch",
+    "status": "Presumed dead / unresolved",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; nearly kills 2014 Thanos before bombardment interrupts her.",
+    "endpoint": "Multiverse of Madness ends with Mount Wundagore collapsing on Wanda after she destroys the Darkhold across universes. Later material treats her as apparently dead, but no body or return is shown. VisionQuest premieres after this dossier’s cutoff.",
+    "endpointEra": "post-Multiverse of Madness",
+    "reality": "Prime",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-010"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-025",
+    "caseNumber": "TVA-025",
+    "name": "Sam Wilson",
+    "alias": "Captain America",
+    "status": "Alive / Captain America",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; leads the portal arrival call and later receives Steve’s shield.",
+    "endpoint": "TFATWS culminates in Sam accepting the mantle. Brave New World establishes him as Captain America during an international crisis and positions him to rebuild an Avengers team.",
+    "endpointEra": "post-Brave New World",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-012"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-026",
+    "caseNumber": "TVA-026",
+    "name": "Bucky Barnes",
+    "alias": "Winter Soldier",
+    "status": "Alive / New Avenger",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; fights and recognizes what Steve intends before the Stone-return mission.",
+    "endpoint": "After TFATWS, Bucky enters politics and later joins the team publicly branded the New Avengers in The New Avengers (Thunderbolts*).",
+    "endpointEra": "post-New Avengers",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-013"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-027",
+    "caseNumber": "TVA-027",
+    "name": "Hope van Dyne",
+    "alias": "Wasp",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; joins the battle and reunites with Scott.",
+    "endpoint": "Survives Quantumania and returns from the Quantum Realm with her family.",
+    "endpointEra": "post-Quantumania",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-006"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-028",
+    "caseNumber": "TVA-028",
+    "name": "Hank Pym",
+    "alias": "Ant-Man (former)",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; attends Tony’s funeral.",
+    "endpoint": "Survives the Quantum Realm crisis and returns home.",
+    "endpointEra": "post-Quantumania",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-006"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-029",
+    "caseNumber": "TVA-029",
+    "name": "Janet van Dyne",
+    "alias": "Wasp (former)",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored; attends Tony’s funeral.",
+    "endpoint": "Quantumania reveals her history with Kang; she survives and returns home.",
+    "endpointEra": "post-Quantumania",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-006"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-030",
+    "caseNumber": "TVA-030",
+    "name": "Cassie Lang",
+    "alias": "—",
+    "status": "Alive / emerging hero",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Survives the Blip and reunites with Scott after his five-year absence.",
+    "endpoint": "Quantumania makes Cassie an active size-changing hero; she survives and returns home with the family.",
+    "endpointEra": "post-Quantumania",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-006"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-031",
+    "caseNumber": "TVA-031",
+    "name": "Drax",
+    "alias": "Drax the Destroyer",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored and fights Thanos’s army.",
+    "endpoint": "Guardians Vol. 3 ends with Drax remaining on Knowhere to help raise the rescued children—“born to be a dad,” rather than only a destroyer.",
+    "endpointEra": "post-GOTG3",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-008"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-032",
+    "caseNumber": "TVA-032",
+    "name": "Mantis",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored and fights in the final battle.",
+    "endpoint": "Leaves the Guardians to discover herself, traveling with the Abilisks.",
+    "endpointEra": "post-GOTG3",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-008"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-033",
+    "caseNumber": "TVA-033",
+    "name": "Groot",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored and fights in the final battle.",
+    "endpoint": "Remains with Rocket’s new Guardians lineup; shown substantially larger in the Vol. 3 tag.",
+    "endpointEra": "post-GOTG3",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-008"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-034",
+    "caseNumber": "TVA-034",
+    "name": "Kraglin Obfonteri",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Appears with Ravager/portal forces in the final battle.",
+    "endpoint": "Masters Yondu’s arrow and joins Rocket’s new Guardians roster.",
+    "endpointEra": "post-GOTG3",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-008"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-035",
+    "caseNumber": "TVA-035",
+    "name": "Valkyrie",
+    "alias": "King Valkyrie",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Leads New Asgard and joins the final battle.",
+    "endpoint": "Love and Thunder confirms her as King of New Asgard; she survives Gorr’s attack and continues leading.",
+    "endpointEra": "post-Love and Thunder",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-003"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-036",
+    "caseNumber": "TVA-036",
+    "name": "Korg",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Joins the final battle.",
+    "endpoint": "Survives being shattered, regrows his body and later has a child with Dwayne.",
+    "endpointEra": "post-Love and Thunder",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-003"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-037",
+    "caseNumber": "TVA-037",
+    "name": "Howard the Duck",
+    "alias": "—",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Briefly visible among portal/Ravager forces in the final battle.",
+    "endpoint": "No later live-action MCU story gives this specific Howard a newer endpoint.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-038",
+    "caseNumber": "TVA-038",
+    "name": "Happy Hogan",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Attends Tony’s funeral and comforts Morgan.",
+    "endpoint": "After May’s death and Strange’s spell, Happy remembers May through Spider-Man but no longer knows Peter Parker’s identity.",
+    "endpointEra": "post-No Way Home",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-015"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-039",
+    "caseNumber": "TVA-039",
+    "name": "May Parker",
+    "alias": "Aunt May",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Appears at Tony’s funeral.",
+    "endpoint": "Killed by Green Goblin during the No Way Home crisis; her lesson about responsibility becomes central to Peter’s choice.",
+    "endpointEra": "No Way Home",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-015"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-040",
+    "caseNumber": "TVA-040",
+    "name": "Ned Leeds",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored after the Blip; appears at Tony’s funeral.",
+    "endpoint": "No Way Home reveals portal aptitude before the memory spell erases Peter from his life. Brand New Day returns Ned in that altered world.",
+    "endpointEra": "Brand New Day era",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-009"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-041",
+    "caseNumber": "TVA-041",
+    "name": "Morgan Stark",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Tony and Pepper’s daughter; appears at home and at Tony’s funeral.",
+    "endpoint": "No later released MCU project advances her on-screen story.",
+    "endpointEra": "post-2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-042",
+    "caseNumber": "TVA-042",
+    "name": "Harley Keener",
+    "alias": "—",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Tony’s Iron Man 3 protégé appears at Tony’s funeral.",
+    "endpoint": "No later MCU appearance has advanced his story.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-043",
+    "caseNumber": "TVA-043",
+    "name": "Nick Fury",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored and attends Tony’s funeral.",
+    "endpoint": "Secret Invasion brings Fury back to Earth; The Marvels places him at S.A.B.E.R. during the Kree crisis. He survives.",
+    "endpointEra": "post-The Marvels",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-007"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-044",
+    "caseNumber": "TVA-044",
+    "name": "Maria Hill",
+    "alias": "—",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored and attends Tony’s funeral.",
+    "endpoint": "Gravik shoots and kills Hill in Moscow while disguised as Fury.",
+    "endpointEra": "Secret Invasion",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-016"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-045",
+    "caseNumber": "TVA-045",
+    "name": "Thaddeus Ross",
+    "alias": "Red Hulk / U.S. President",
+    "status": "Alive / incarcerated",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Attends Tony’s funeral as Secretary of State.",
+    "endpoint": "Brave New World makes Ross U.S. President; gamma transformation turns him into Red Hulk. After the Washington battle, he is held at the Raft.",
+    "endpointEra": "post-Brave New World",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-012"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-046",
+    "caseNumber": "TVA-046",
+    "name": "Laura Barton",
+    "alias": "Agent 19 (former)",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored and reunited with Clint.",
+    "endpoint": "Hawkeye strongly confirms her S.H.I.E.L.D. past via the Agent 19 watch; Clint returns it and the family reunites.",
+    "endpointEra": "post-Hawkeye",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-004"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-047",
+    "caseNumber": "TVA-047",
+    "name": "Lila Barton",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Dusted in 2018, restored in 2023.",
+    "endpoint": "Appears alive with the Barton family in Hawkeye.",
+    "endpointEra": "post-Hawkeye",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-004"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-048",
+    "caseNumber": "TVA-048",
+    "name": "Cooper Barton",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Dusted/restored and reunited with Clint.",
+    "endpoint": "Appears alive with the Barton family in Hawkeye.",
+    "endpointEra": "post-Hawkeye",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-004"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-049",
+    "caseNumber": "TVA-049",
+    "name": "Nathaniel Barton",
+    "alias": "—",
+    "status": "Alive",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Dusted/restored and reunited with Clint.",
+    "endpoint": "Appears alive with the Barton family in Hawkeye.",
+    "endpointEra": "post-Hawkeye",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-004"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-050",
+    "caseNumber": "TVA-050",
+    "name": "Loki (2012 variant)",
+    "alias": "TVA Loki",
+    "status": "Alive beyond time",
+    "statusKey": "branch",
+    "branch": true,
+    "encore": true,
+    "endgame": "Escapes 2012 New York with the Tesseract when the Time Heist goes wrong.",
+    "endpoint": "Loki S1–2 follows this exact variant. He ultimately holds the branching timelines together beyond ordinary time. ENCORE then shows him appearing at Steve and Peggy’s door.",
+    "endpointEra": "outside linear time / Encore",
+    "reality": "2012 branch → TVA",
+    "legacyConfidence": "82%",
+    "sourceIds": [
+      "source-017"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-051",
+    "caseNumber": "TVA-051",
+    "name": "Loki (2013)",
+    "alias": "—",
+    "status": "Deceased later",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Seen imprisoned during Thor and Rocket’s 2013 trip.",
+    "endpoint": "This prime Loki later dies at Thanos’s hand in Infinity War. Do not confuse him with the 2012 TVA variant.",
+    "endpointEra": "2013 Asgard",
+    "reality": "Prime past",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-052",
+    "caseNumber": "TVA-052",
+    "name": "Frigga",
+    "alias": "—",
+    "status": "Deceased later",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Recognizes time-traveling Thor and gives him emotional closure.",
+    "endpoint": "She is killed later that same day during The Dark World events; Endgame does not change her fate.",
+    "endpointEra": "2013 Asgard",
+    "reality": "Prime past",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-053",
+    "caseNumber": "TVA-053",
+    "name": "Jane Foster",
+    "alias": "Mighty Thor",
+    "status": "Deceased / Valhalla",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Seen in 2013 Asgard while Rocket extracts the Reality Stone from her.",
+    "endpoint": "Love and Thunder: becomes Mighty Thor while terminally ill, dies after helping defeat Gorr, and is shown arriving in Valhalla.",
+    "endpointEra": "post-Love and Thunder",
+    "reality": "Prime past",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-003"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-054",
+    "caseNumber": "TVA-054",
+    "name": "Howard Stark",
+    "alias": "—",
+    "status": "Deceased later",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Meets Tony at Camp Lehigh without realizing Tony is his future son.",
+    "endpoint": "Howard and Maria are later murdered in 1991 by the Winter Soldier; Endgame’s encounter does not alter the prime history shown.",
+    "endpointEra": "1970",
+    "reality": "Prime past",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-055",
+    "caseNumber": "TVA-055",
+    "name": "Edwin Jarvis",
+    "alias": "—",
+    "status": "Deceased/unknown by modern era",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Howard Stark’s chauffeur appears at Camp Lehigh—the first MCU film appearance of an Agent Carter TV-origin character.",
+    "endpoint": "No later released screen story establishes Jarvis’s eventual death/date; by Tony’s adulthood his name survives through the J.A.R.V.I.S. AI legacy.",
+    "endpointEra": "1970",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-056",
+    "caseNumber": "TVA-056",
+    "name": "Peggy Carter",
+    "alias": "—",
+    "status": "Temporal anomaly",
+    "statusKey": "unknown",
+    "branch": true,
+    "encore": true,
+    "endgame": "Seen working at Camp Lehigh; Endgame closes on her dancing with Steve in the past.",
+    "endpoint": "ENCORE directly extends that scene: Peggy answers the door to TVA-era Loki, who offers help to her and Steve. Her branch-specific future is now unresolved.",
+    "endpointEra": "Encore branch past",
+    "reality": "Prime + Steve branch",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-002"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-057",
+    "caseNumber": "TVA-057",
+    "name": "The Ancient One",
+    "alias": "Sorcerer Supreme (former)",
+    "status": "Deceased later",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Explains branch risks to Bruce and gives him the Time Stone after learning Strange surrendered it willingly.",
+    "endpoint": "She later dies during Doctor Strange (2016). Steve’s return of the Stone is intended to prevent the Time Heist from creating a doomed branch at that point.",
+    "endpointEra": "2012 New York",
+    "reality": "Prime past",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-010"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-058",
+    "caseNumber": "TVA-058",
+    "name": "Alexander Pierce",
+    "alias": "HYDRA / S.H.I.E.L.D. official",
+    "status": "Deceased later",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Attempts to take Loki and the Tesseract after the Battle of New York.",
+    "endpoint": "Killed in The Winter Soldier (2014). The Time Heist encounter occurs before that death.",
+    "endpointEra": "2012 New York",
+    "reality": "Prime past",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-059",
+    "caseNumber": "TVA-059",
+    "name": "Jasper Sitwell",
+    "alias": "HYDRA agent",
+    "status": "Deceased later",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Confronted by Steve during the elevator Time Heist sequence.",
+    "endpoint": "Killed by the Winter Soldier in 2014.",
+    "endpointEra": "2012 New York",
+    "reality": "Prime past",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-060",
+    "caseNumber": "TVA-060",
+    "name": "Brock Rumlow",
+    "alias": "Crossbones",
+    "status": "Deceased later",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "HYDRA operative fooled when future Steve whispers “Hail Hydra.”",
+    "endpoint": "Later becomes Crossbones and dies in Lagos in Civil War.",
+    "endpointEra": "2012 New York",
+    "reality": "Prime past",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-061",
+    "caseNumber": "TVA-061",
+    "name": "Jack Rollins",
+    "alias": "HYDRA agent",
+    "status": "Unknown",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Part of the STRIKE elevator team during the Time Heist.",
+    "endpoint": "No later released MCU appearance establishes a definitive fate after the 2014 S.H.I.E.L.D./HYDRA collapse.",
+    "endpointEra": "2012 New York",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-062",
+    "caseNumber": "TVA-062",
+    "name": "Johann Schmidt",
+    "alias": "Red Skull / Stonekeeper",
+    "status": "Unknown after Soul Stone",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Acts as Stonekeeper and explains the Soul Stone sacrifice to Natasha and Clint.",
+    "endpoint": "His status after the Soul Stone is taken remains unshown in released MCU canon.",
+    "endpointEra": "2014 Vormir",
+    "reality": "Prime",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-063",
+    "caseNumber": "TVA-063",
+    "name": "Ebony Maw",
+    "alias": "Black Order",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": true,
+    "encore": false,
+    "endgame": "Arrives with 2014 Thanos’s army.",
+    "endpoint": "Dusted by Tony’s snap with Thanos’s forces. Prime Maw had already died in Infinity War.",
+    "endpointEra": "2023 via 2014",
+    "reality": "2014 branch",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-001"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-064",
+    "caseNumber": "TVA-064",
+    "name": "Proxima Midnight",
+    "alias": "Black Order",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": true,
+    "encore": false,
+    "endgame": "Arrives with Thanos’s invading army.",
+    "endpoint": "Dusted by Tony’s snap. Prime Proxima died in Infinity War.",
+    "endpointEra": "2023 via 2014",
+    "reality": "2014 branch",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-065",
+    "caseNumber": "TVA-065",
+    "name": "Corvus Glaive",
+    "alias": "Black Order",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": true,
+    "encore": false,
+    "endgame": "Arrives with Thanos’s invading army.",
+    "endpoint": "Dusted by Tony’s snap. Prime Corvus died in Infinity War.",
+    "endpointEra": "2023 via 2014",
+    "reality": "2014 branch",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-066",
+    "caseNumber": "TVA-066",
+    "name": "Cull Obsidian",
+    "alias": "Black Order",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": true,
+    "encore": false,
+    "endgame": "Fights in the Compound battle.",
+    "endpoint": "Killed when Giant-Man crushes him; prime Cull had already died in Infinity War.",
+    "endpointEra": "2023 via 2014",
+    "reality": "2014 branch",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-067",
+    "caseNumber": "TVA-067",
+    "name": "Akihiko",
+    "alias": "Yakuza boss",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Confronts Ronin in Tokyo.",
+    "endpoint": "Killed by Clint during his Ronin campaign.",
+    "endpointEra": "2018–2023 Blip",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-068",
+    "caseNumber": "TVA-068",
+    "name": "Storage Facility Guard",
+    "alias": "—",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Security guard who encounters Scott after he escapes the Quantum Realm.",
+    "endpoint": "No later story progression.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-069",
+    "caseNumber": "TVA-069",
+    "name": "S.H.I.E.L.D. Agent (1970)",
+    "alias": "—",
+    "status": "Unknown",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Challenges Steve/Tony during the Camp Lehigh infiltration.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "1970 Camp Lehigh",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-070",
+    "caseNumber": "TVA-070",
+    "name": "Camp Lehigh Guard",
+    "alias": "—",
+    "status": "Unknown",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Security personnel during the 1970 Time Heist.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "1970 Camp Lehigh",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-071",
+    "caseNumber": "TVA-071",
+    "name": "Asgardian Maiden",
+    "alias": "—",
+    "status": "Unknown",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Appears during Thor/Rocket’s visit to Asgard.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "2013 Asgard",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-072",
+    "caseNumber": "TVA-072",
+    "name": "Grieving Man",
+    "alias": "Support group attendee",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Attends Steve’s post-Blip support group.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-073",
+    "caseNumber": "TVA-073",
+    "name": "Support Group Man #1",
+    "alias": "—",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Another attendee in Steve’s support group.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-074",
+    "caseNumber": "TVA-074",
+    "name": "Lia",
+    "alias": "Hulk fan",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Child who asks Smart Hulk for a photo.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-075",
+    "caseNumber": "TVA-075",
+    "name": "Julian",
+    "alias": "Hulk fan",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Child in the diner scene with Smart Hulk.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-076",
+    "caseNumber": "TVA-076",
+    "name": "Taylor",
+    "alias": "Hulk fan",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Child in the diner scene with Smart Hulk.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-077",
+    "caseNumber": "TVA-077",
+    "name": "Augie",
+    "alias": "Hulk fan",
+    "status": "Alive at last sight",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": false,
+    "endgame": "Child in the diner scene with Smart Hulk.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-078",
+    "caseNumber": "TVA-078",
+    "name": "1970 Driver",
+    "alias": "Stan Lee cameo",
+    "status": "Unknown",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Passes Camp Lehigh delivering the “make love, not war” cameo.",
+    "endpoint": "A cameo character with no subsequent story progression.",
+    "endpointEra": "1970",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-079",
+    "caseNumber": "TVA-079",
+    "name": "F.R.I.D.A.Y.",
+    "alias": "Stark AI",
+    "status": "Operational at Endgame",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Supports Tony during the final battle and reports the energy surge.",
+    "endpoint": "No released post-Endgame project establishes a definitive continuing operational status for Tony’s F.R.I.D.A.Y. instance.",
+    "endpointEra": "2023",
+    "reality": "Prime",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-080",
+    "caseNumber": "TVA-080",
+    "name": "Queen Ramonda",
+    "alias": "—",
+    "status": "Deceased",
+    "statusKey": "dead",
+    "branch": false,
+    "encore": false,
+    "endgame": "Restored after the Blip and present among Wakandan/funeral-era characters in Endgame.",
+    "endpoint": "Wakanda Forever: dies saving Riri Williams from Namor’s flooding attack on the Wakandan throne room.",
+    "endpointEra": "Wakanda Forever",
+    "reality": "Prime",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-011"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-081",
+    "caseNumber": "TVA-081",
+    "name": "Military Police",
+    "alias": "—",
+    "status": "Unknown",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Military personnel encountered around Camp Lehigh during the Time Heist.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "1970 Camp Lehigh",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-082",
+    "caseNumber": "TVA-082",
+    "name": "Male S.H.I.E.L.D. Agent",
+    "alias": "—",
+    "status": "Unknown",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Credited Camp Lehigh-era S.H.I.E.L.D. personnel.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "1970 Camp Lehigh",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-083",
+    "caseNumber": "TVA-083",
+    "name": "Car Girl",
+    "alias": "—",
+    "status": "Unknown",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": false,
+    "endgame": "Credited passenger/companion in the 1970 Stan Lee cameo sequence.",
+    "endpoint": "No later story progression identified.",
+    "endpointEra": "1970",
+    "reality": "Prime past",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-014"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-084",
+    "caseNumber": "TVA-084",
+    "name": "Mobius M. Mobius",
+    "alias": "TVA analyst",
+    "status": "Alive / TVA active",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": true,
+    "endgame": "Not present in the 2019 cut; added by Encore.",
+    "endpoint": "After Loki S2 left him observing his timeline, Encore places Mobius back at the TVA as incursions multiply and the multiverse begins collapsing.",
+    "endpointEra": "Encore",
+    "reality": "TVA",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-002"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-085",
+    "caseNumber": "TVA-085",
+    "name": "Ouroboros",
+    "alias": "O.B.",
+    "status": "Alive / TVA active",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": true,
+    "endgame": "Encore-only addition.",
+    "endpoint": "At the TVA with Mobius and Casey as the incursion count explodes; reports the scale of multiversal collapse.",
+    "endpointEra": "Encore",
+    "reality": "TVA",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-002"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-086",
+    "caseNumber": "TVA-086",
+    "name": "Casey",
+    "alias": "TVA staff",
+    "status": "Alive / TVA active",
+    "statusKey": "alive",
+    "branch": false,
+    "encore": true,
+    "endgame": "Encore-only addition.",
+    "endpoint": "Alerts Mobius to the Earth-10005/Earth-1127 incursion and escalating crisis.",
+    "endpointEra": "Encore",
+    "reality": "TVA",
+    "legacyConfidence": "96%",
+    "sourceIds": [
+      "source-002"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-087",
+    "caseNumber": "TVA-087",
+    "name": "Miss Minutes",
+    "alias": "TVA AI",
+    "status": "Operational",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": true,
+    "endgame": "Encore-only addition.",
+    "endpoint": "Present/audible within the TVA sequence during the multiversal emergency.",
+    "endpointEra": "Encore",
+    "reality": "TVA",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-002"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  },
+  {
+    "id": "dossier-088",
+    "caseNumber": "TVA-088",
+    "name": "Victor von Doom",
+    "alias": "Doctor Doom",
+    "status": "Active",
+    "statusKey": "unknown",
+    "branch": false,
+    "encore": true,
+    "endgame": "Encore-only addition; not part of the original 2019 narrative.",
+    "endpoint": "Appears/acts after Brand New Day to collect Bruce Banner, then the Encore tag shows Doom’s mask being forged/worn. Exact origin, objective and destination remain unrevealed.",
+    "endpointEra": "Encore",
+    "reality": "Unknown / multiversal",
+    "legacyConfidence": "62%",
+    "sourceIds": [
+      "source-002"
+    ],
+    "verification": "inherited-prototype-pending-audit"
+  }
+]

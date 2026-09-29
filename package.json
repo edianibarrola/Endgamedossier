@@ -1,0 +1,9 @@
+{
+  "name": "endgame-tva-dossier",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Static TVA dossier; Node is used only for development checks.",
+  "scripts": { "test": "node tests/smoke.cjs" },
+  "devDependencies": { "playwright": "1.62.1" },
+  "engines": { "node": ">=20" }
+}

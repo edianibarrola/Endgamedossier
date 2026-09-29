@@ -1,0 +1,1 @@
+/* Portal links use app.js navigation and remain native anchors without JS. */

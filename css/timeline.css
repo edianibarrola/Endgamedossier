@@ -1,0 +1,15 @@
+
+.map2{max-width:1200px;margin:auto;padding:18px 0 20px;border-block:1px solid #60402a;background:#0b0705}
+.maptitle{display:flex;justify-content:space-between;align-items:end;padding:0 14px 12px}.maptitle small{font-size:6px;letter-spacing:.15em;color:#ff6b22}.maptitle h2{font:26px Impact,sans-serif;margin:3px 0 0}.maptitle>span{font-size:6px;color:#8b674c}
+.mapwindow{overflow-x:auto;scroll-snap-type:x proximity;scrollbar-width:none;padding:0 14px}.mapwindow::-webkit-scrollbar{display:none}
+.maprail{display:flex;min-width:max-content;position:relative;padding-bottom:14px}.maprail:before{content:"";position:absolute;left:0;right:0;top:51px;height:3px;background:linear-gradient(90deg,#f4772d,#ffb05f 55%,#f4772d);box-shadow:0 0 12px #ff6b2255}
+.era2{width:230px;scroll-snap-align:start;position:relative;border-left:1px solid #543521;padding:0 9px;min-height:190px}.era2:last-child{border-right:1px solid #543521}
+.erahead{height:62px;position:relative;z-index:2}.erahead b{display:block;font:25px Impact,sans-serif;color:#efd5a3}.erahead span{font:8px Impact,sans-serif;color:#ff7933;letter-spacing:.06em}
+.subjects{display:grid;grid-template-columns:1fr 1fr;gap:6px;position:relative;z-index:3}
+.subjectchip{min-height:52px;display:flex;align-items:center;gap:6px;text-align:left;padding:5px;border:1px solid #62432e;background:#120c08;color:#d7bd8f;font:inherit;cursor:pointer}
+.subjectchip:active,.subjectchip:focus{border-color:#ff8b43;background:#1b100a;outline:1px solid #ff6b22}
+.avatar{width:36px;height:40px;flex:0 0 36px;position:relative;overflow:hidden;border:1px solid #754a2e;background:radial-gradient(circle,#6e321f55,transparent 60%),#090604;display:grid;place-items:center}
+.avatar img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:2}.avatar b{font:14px Impact,sans-serif;color:#9a6c4b}
+.ctxt{min-width:0}.ctxt strong{display:block;font:9px/1.05 Impact,sans-serif;white-space:normal}.ctxt small{display:block;margin-top:4px;font-size:5px;color:#8b694e}
+.mapstatus{margin:0 14px;padding:7px 9px;border:1px solid #4b3222;color:#987054;font-size:6px;letter-spacing:.08em}
+@media(min-width:900px){.maprail{min-width:100%}.era2{flex:1;width:auto;min-width:150px}.subjects{grid-template-columns:1fr}}

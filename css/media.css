@@ -1,0 +1,26 @@
+.grid { align-items: start; }
+.media-pair { align-items: start; grid-template-columns: minmax(0,1fr) minmax(0,1fr) !important; }
+.evidence-figure { margin: 0; min-width: 0; border: 1px solid #795335; background: #0d0907; }
+.evidence-image { aspect-ratio: 3/4; position: relative; overflow: hidden; background: #160f0b; }
+.evidence-image img { width: 100%; height: 100%; object-fit: cover; object-position: center 20%; display: block; }
+.evidence-image.comic img { object-fit: contain; object-position: center; }
+.image-type { position: absolute; bottom: 0; left: 0; right: 0; padding: 7px; background: #090705e8; color: #ffd095; font-size: 9px; letter-spacing: .06em; }
+.evidence-figure figcaption { padding: 9px; font-size: 11px; line-height: 1.5; }
+.evidence-figure figcaption > b { font-weight: normal; color: #d5bd97; }
+.image-credit { margin-top: 8px; }
+.image-credit summary { display: block; padding: 8px 0; font-size: 10px; color: #ffb16b; }
+.card .image-credit summary::after { display: none; }
+.image-credit p { font-size: 10px; overflow-wrap: anywhere; }
+.body .image-credit a { font-size: 10px; padding: 8px 0; }
+.identity-plate { border: 1px solid #795335; padding: 16px 12px; min-height: 230px; background: repeating-linear-gradient(135deg,#20140e 0 1px,transparent 1px 12px),#0d0907; }
+.identity-plate > span { font-size: 9px; color: #f4772d; letter-spacing: .1em; }
+.identity-plate > b { display: block; margin: 24px 0 16px; font: 24px/1.1 Impact,sans-serif; overflow-wrap: anywhere; }
+.identity-plate p { font-size: 12px; }
+.heroCard { isolation: isolate; height: 210px; }
+.heroCard .hero-image { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 20%; z-index: -1; }
+.heroCard:has(.hero-image)::before { inset: 0; width: auto; height: auto; border: 0; border-radius: 0; box-shadow: none; background: linear-gradient(transparent 30%,#090705 98%); }
+.heroCard > div { position: relative; z-index: 2; }
+.heroCard:has(.hero-image)::after { display: none; }
+.avatar img { object-position: center 20%; }
+.evidence-image.image-failed::before { content: 'IMAGE UNAVAILABLE'; display: grid; place-items: center; height: 100%; font-size: 11px; color: #d5bd97; }
+@media(max-width:360px) { .image-type { font-size: 8px; } .evidence-figure figcaption { padding: 6px; } }

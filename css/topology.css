@@ -1,0 +1,13 @@
+
+.viz.topology{height:155px;position:relative;margin-top:7px;overflow:hidden;background:radial-gradient(ellipse at 45% 50%,#f4772d0b,transparent 48%)}
+.topology svg{width:100%;height:100%;overflow:visible}
+.topology path{animation:none!important;stroke-dasharray:none!important;fill:none}
+.topology .ghost{stroke:#9a4b28;stroke-width:1.15;opacity:.36}
+.topology .core{stroke:url(#fade);stroke-width:2.8;opacity:.95;filter:url(#glow)}
+.topology .node{fill:#ffd095;stroke:#f4772d;stroke-width:1.5;filter:url(#glow);animation:nexus 7s ease-in-out infinite}
+.topology .n2{animation-delay:-3.4s}
+.topology .pulse{fill:#fff4ce;filter:url(#glow);opacity:.9}
+@keyframes nexus{0%,82%,100%{r:3;opacity:.7}88%{r:5;opacity:1}94%{r:3;opacity:.75}}
+.viz.topology:after{display:none!important}
+.timecaption{position:absolute;left:8px;bottom:5px;font-size:6px;color:#806047;letter-spacing:.12em}
+.timecaption b{color:#f4772d}

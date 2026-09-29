@@ -1,0 +1,104 @@
+[
+  {
+    "id": "source-001",
+    "url": "https://www.marvel.com/movies/avengers-endgame",
+    "label": "Marvel — Avengers: Endgame",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-002",
+    "url": "https://www.gamesradar.com/entertainment/marvel-movies/what-is-avengers-endgame-encore-marvels-new-re-release-explained/",
+    "label": "Endgame Encore scene reporting",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-003",
+    "url": "https://www.marvel.com/thorpremiere",
+    "label": "Marvel — Thor: Love and Thunder",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-004",
+    "url": "https://www.marvel.com/tv-shows/hawkeye/1",
+    "label": "Marvel — Hawkeye",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-005",
+    "url": "https://www.marvel.com/tv-shows/secret-invasion/1",
+    "label": "Marvel — Secret Invasion",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-006",
+    "url": "https://www.marvel.com/antman",
+    "label": "Marvel — Quantumania",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-007",
+    "url": "https://www.marvel.com/movies/the-marvels",
+    "label": "Marvel — The Marvels",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-008",
+    "url": "https://www.marvel.com/movies/guardians-of-the-galaxy-volume-3/",
+    "label": "Marvel — Guardians Vol. 3",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-009",
+    "url": "https://www.sonypictures.com/movies/spidermanbrandnewday",
+    "label": "Sony — Spider-Man: Brand New Day",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-010",
+    "url": "https://www.marvel.com/movies/doctor-strange-in-the-multiverse-of-madness",
+    "label": "Marvel — Multiverse of Madness",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-011",
+    "url": "https://www.marvel.com/movies/black-panther-wakanda-forever",
+    "label": "Marvel — Wakanda Forever",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-012",
+    "url": "https://www.marvel.com/movies/captain-america-brave-new-world",
+    "label": "Marvel — Brave New World",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-013",
+    "url": "https://www.marvel.com/movies/thunderbolts",
+    "label": "Marvel — The New Avengers",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-014",
+    "url": "https://www.imdb.com/title/tt4154796/fullcredits/",
+    "label": "IMDb — Endgame full cast",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-015",
+    "url": "https://www.marvel.com/movies/spider-man-no-way-home",
+    "label": "Marvel — No Way Home",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-016",
+    "url": "https://www.marvel.com/characters/maria-hill",
+    "label": "Marvel — Maria Hill",
+    "verification": "pending-source-audit"
+  },
+  {
+    "id": "source-017",
+    "url": "https://www.marvel.com/tv-shows/loki/2",
+    "label": "Marvel — Loki Season 2",
+    "verification": "pending-source-audit"
+  }
+]

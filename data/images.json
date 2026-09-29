@@ -1,0 +1,706 @@
+[
+  {
+    "characterId": "dossier-001",
+    "localMcuAsset": "assets/mcu/089c9eaee3d68b8d.webp",
+    "localComicAsset": "assets/comics/b48a49d411d98043.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-002",
+    "localMcuAsset": "assets/mcu/8cba19419624d49d.webp",
+    "localComicAsset": "assets/comics/2d4f950191e7cd68.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-003",
+    "localMcuAsset": "assets/mcu/e616bbe915189699.webp",
+    "localComicAsset": "assets/comics/cc0654473bef5a9a.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-004",
+    "localMcuAsset": "assets/mcu/f69ab8192254f470.webp",
+    "localComicAsset": "assets/comics/5b1463ee043c0501.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-005",
+    "localMcuAsset": "assets/mcu/f07dc3c429843736.webp",
+    "localComicAsset": "assets/comics/ccc7fc5a4e134a96.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-006",
+    "localMcuAsset": "assets/mcu/2242a14fe5dc22cd.webp",
+    "localComicAsset": "assets/comics/eaae586026f19f00.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-007",
+    "localMcuAsset": "assets/mcu/0d988c745af7b1bb.webp",
+    "localComicAsset": "assets/comics/7c6f27eeb7d603cd.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-008",
+    "localMcuAsset": "assets/mcu/6adc16d6d32719f3.webp",
+    "localComicAsset": "assets/comics/270f8a77b50c53d4.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-009",
+    "localMcuAsset": "assets/mcu/9b4b0c3c73b23225.webp",
+    "localComicAsset": "assets/comics/985acf2c88f519b7.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-010",
+    "localMcuAsset": "assets/mcu/35929ca00d82a21c.webp",
+    "localComicAsset": "assets/comics/27af0a3ccab5cde8.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-011",
+    "localMcuAsset": "assets/mcu/3fa7b3e13a4845fb.webp",
+    "localComicAsset": "assets/comics/8172565f46864328.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-012",
+    "localMcuAsset": "assets/mcu/d2bca6f0137fb96c.webp",
+    "localComicAsset": "assets/comics/44a1c9c41c1bb463.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-013",
+    "localMcuAsset": "assets/mcu/2aacf30317b9c8a8.webp",
+    "localComicAsset": "assets/comics/467a339c8738f4bd.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-014",
+    "localMcuAsset": "assets/mcu/2aacf30317b9c8a8.webp",
+    "localComicAsset": "assets/comics/467a339c8738f4bd.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-015",
+    "localMcuAsset": "assets/mcu/0efd43c805228c57.webp",
+    "localComicAsset": "assets/comics/f3f0dd3f0e66e15d.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-016",
+    "localMcuAsset": "assets/mcu/5dd3ac65d2c62aad.webp",
+    "localComicAsset": "assets/comics/ea1999b137c3eca2.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-017",
+    "localMcuAsset": "assets/mcu/fda9c3f0ee18c752.webp",
+    "localComicAsset": "assets/comics/6d716487a25931e9.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-018",
+    "localMcuAsset": "assets/mcu/97f4f9ec0e6f08e0.webp",
+    "localComicAsset": "assets/comics/6fcb9bfc3f6c543e.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-019",
+    "localMcuAsset": "assets/mcu/7be1929c9a5bc584.webp",
+    "localComicAsset": "assets/comics/b2fec3e5b372e7ee.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-020",
+    "localMcuAsset": "assets/mcu/c022145e1d9f7906.webp",
+    "localComicAsset": "assets/comics/e4e7e26814fd9cc4.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-021",
+    "localMcuAsset": "assets/mcu/92ddb78c3943ec31.webp",
+    "localComicAsset": "assets/comics/f57e670c41ef2bbf.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-022",
+    "localMcuAsset": "assets/mcu/d9ffd4e1cf536b9b.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-023",
+    "localMcuAsset": "assets/mcu/d90e8967fcbff129.webp",
+    "localComicAsset": "assets/comics/9d172436f3747ad0.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-024",
+    "localMcuAsset": "assets/mcu/d1d1092cb21f244e.webp",
+    "localComicAsset": "assets/comics/dcd83c653c955214.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-025",
+    "localMcuAsset": "assets/mcu/a7c0dfcfecf2ab1d.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-026",
+    "localMcuAsset": "assets/mcu/11ef7400a38ad120.webp",
+    "localComicAsset": "assets/comics/7086dac46ef2c502.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-027",
+    "localMcuAsset": "assets/mcu/e13ecabee3cb4421.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-028",
+    "localMcuAsset": "assets/mcu/cdfabb728ee0995c.webp",
+    "localComicAsset": "assets/comics/b2145ea73c540786.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-029",
+    "localMcuAsset": "assets/mcu/27b6c1dc583d710e.webp",
+    "localComicAsset": "assets/comics/308828bb55c2ae82.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-030",
+    "localMcuAsset": "assets/mcu/3f52d62c20aa89ba.webp",
+    "localComicAsset": "assets/comics/6bb06652f5929acf.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-031",
+    "localMcuAsset": "assets/mcu/345e9a2ed5b1adf8.webp",
+    "localComicAsset": "assets/comics/e7a4dd0ebff3d9c2.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-032",
+    "localMcuAsset": "assets/mcu/44b75a1051e6cf09.webp",
+    "localComicAsset": "assets/comics/19f4dbb689143abf.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-033",
+    "localMcuAsset": "assets/mcu/0b1d16f12d9a3db4.webp",
+    "localComicAsset": "assets/comics/0cbcd624e3f5a77d.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-034",
+    "localMcuAsset": "assets/mcu/f8df6f4e44b193da.webp",
+    "localComicAsset": "assets/comics/7170aad607670059.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-035",
+    "localMcuAsset": "assets/mcu/48273932e0f2cd15.webp",
+    "localComicAsset": "assets/comics/2469485ee86b27f9.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-036",
+    "localMcuAsset": "assets/mcu/ce2bb41fe00b7ba4.webp",
+    "localComicAsset": "assets/comics/fcd84d8d28226d2b.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-037",
+    "localMcuAsset": "assets/mcu/7a916bf370fa8d4c.webp",
+    "localComicAsset": "assets/comics/ea1b4577611f117e.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-038",
+    "localMcuAsset": "assets/mcu/6bbccd9247c28387.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-039",
+    "localMcuAsset": "assets/mcu/5c07cade3276d067.webp",
+    "localComicAsset": "assets/comics/14384a703ba8dcc9.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-040",
+    "localMcuAsset": "assets/mcu/bfd74505bfed897e.webp",
+    "localComicAsset": "assets/comics/c5de011ab83564ef.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-041",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-042",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-043",
+    "localMcuAsset": "assets/mcu/72c83de06513bc3a.webp",
+    "localComicAsset": "assets/comics/0e4573fd0cb05e36.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-044",
+    "localMcuAsset": "assets/mcu/e8c6974eb93b7efd.webp",
+    "localComicAsset": "assets/comics/c84b05ad3b2abadf.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-045",
+    "localMcuAsset": "assets/mcu/b07c442f02e93be8.webp",
+    "localComicAsset": "assets/comics/6c9cb53696a45800.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-046",
+    "localMcuAsset": "assets/mcu/5a60c9c7e043bcc1.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-047",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-048",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-049",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-050",
+    "localMcuAsset": "assets/mcu/a460e12e581f5eae.webp",
+    "localComicAsset": "assets/comics/129185588d500b59.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-051",
+    "localMcuAsset": "assets/mcu/a460e12e581f5eae.webp",
+    "localComicAsset": "assets/comics/129185588d500b59.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-052",
+    "localMcuAsset": "assets/mcu/f9975eac8fade747.webp",
+    "localComicAsset": "assets/comics/f4547275fcfa060f.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-053",
+    "localMcuAsset": "assets/mcu/80209b9d0156aa94.webp",
+    "localComicAsset": "assets/comics/2f0469e8ddcdfa72.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-054",
+    "localMcuAsset": "assets/mcu/0c71e91327d212c7.webp",
+    "localComicAsset": "assets/comics/a392329b3c8c765d.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-055",
+    "localMcuAsset": "assets/mcu/6cc19331a912ce47.webp",
+    "localComicAsset": "assets/comics/1af5c0afa595f46c.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-056",
+    "localMcuAsset": "assets/mcu/a8b399a86295c4e6.webp",
+    "localComicAsset": "assets/comics/3414c22fe59d98cb.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-057",
+    "localMcuAsset": "assets/mcu/b64e57520d168947.webp",
+    "localComicAsset": "assets/comics/650360a436fb3b28.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-058",
+    "localMcuAsset": "assets/mcu/fcb3cb61128f1209.webp",
+    "localComicAsset": "assets/comics/359477ee9b55b52b.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-059",
+    "localMcuAsset": "assets/mcu/64ef4aec71d75bdb.webp",
+    "localComicAsset": "assets/comics/1152cad1f82c6c76.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-060",
+    "localMcuAsset": "assets/mcu/2281373e970beb31.webp",
+    "localComicAsset": "assets/comics/a68fd74e4be0ce81.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-061",
+    "localMcuAsset": "assets/mcu/5150606b25f16d54.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-062",
+    "localMcuAsset": "assets/mcu/fb504c96137f2640.webp",
+    "localComicAsset": "assets/comics/5b2657c4bd5d9bb1.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-063",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-064",
+    "localMcuAsset": "assets/mcu/7a60886eb6c0f48a.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-065",
+    "localMcuAsset": null,
+    "localComicAsset": "assets/comics/6f7623c7ba32a392.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-066",
+    "localMcuAsset": "assets/mcu/9dd5b4f592a1599d.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-067",
+    "localMcuAsset": "assets/mcu/5d4d19e625396f95.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-068",
+    "localMcuAsset": "assets/mcu/471d220bc4b8d7f9.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-069",
+    "localMcuAsset": "assets/mcu/2d2ef410bfa65838.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-070",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-071",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-072",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-073",
+    "localMcuAsset": "assets/mcu/2b5dcd511767156a.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-074",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-075",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-076",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-077",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-078",
+    "localMcuAsset": "assets/mcu/94da43cc1c6b4273.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-079",
+    "localMcuAsset": "assets/mcu/64638aa5ecef3c4a.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-080",
+    "localMcuAsset": "assets/mcu/1a1323e511b3e8e1.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-081",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-082",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-083",
+    "localMcuAsset": null,
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-084",
+    "localMcuAsset": "assets/mcu/c795ff35975bd224.webp",
+    "localComicAsset": "assets/comics/c0f4f45c538a6655.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-085",
+    "localMcuAsset": "assets/mcu/7499061ffb5dc96a.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-086",
+    "localMcuAsset": "assets/mcu/e4167a0ff43db2ef.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-087",
+    "localMcuAsset": "assets/mcu/852ce8113b7c0cf7.webp",
+    "localComicAsset": null,
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  },
+  {
+    "characterId": "dossier-088",
+    "localMcuAsset": null,
+    "localComicAsset": "assets/comics/8d143ad901f8d632.webp",
+    "rightsStatus": "see-per-asset-rights-in-media-json",
+    "provenanceStatus": "source-recorded",
+    "legacyRemoteImages": []
+  }
+]

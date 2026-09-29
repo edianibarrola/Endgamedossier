@@ -1,0 +1,15 @@
+
+.lockhud{position:sticky;top:43px;z-index:29;max-width:1200px;margin:0 auto;border:1px solid #ff7833;background:linear-gradient(90deg,#170b06f5,#090604f5);backdrop-filter:blur(18px);padding:8px 10px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 15px 35px #000b,0 0 25px #ff6b2214}.lockhud[hidden]{display:none}
+.lockscope{display:flex;align-items:center;gap:9px;min-width:0}.targetring{width:36px;height:36px;border:1px solid #ff7a36;border-radius:50%;display:grid;place-items:center;position:relative;flex:none;box-shadow:0 0 15px #ff6b2222}.targetring:before,.targetring:after{content:"";position:absolute;background:#ff7a36}.targetring:before{width:48px;height:1px;left:-7px;top:17px}.targetring:after{height:48px;width:1px;top:-7px;left:17px}.targetring i{width:7px;height:7px;border-radius:50%;background:#ffd097;box-shadow:0 0 10px #ff8b43}
+.lockscope small{display:block;color:#ff7a36;font-size:5px;letter-spacing:.14em}.lockscope b{display:block;font:18px Impact,sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:45vw}.lockscope em{display:block;color:#927052;font-size:5px;font-style:normal}
+.lockactions{display:flex;gap:4px}.lockactions button,.lockmini{border:1px solid #76482d;background:#130b07;color:#d8b581;font:6px ui-monospace,monospace;letter-spacing:.07em;padding:7px}
+.lockmini{margin-left:3px;min-width:44px;position:relative;z-index:5}.card summary{grid-template-columns:auto 1fr auto auto auto!important}
+body.subject-locked .subjectchip{opacity:.18;filter:saturate(.2);transition:opacity .35s,filter .35s,transform .35s}body.subject-locked .subjectchip.lockmatch{opacity:1;filter:none;transform:translateY(-2px);border-color:#ff8b43;box-shadow:0 0 18px #ff6b2222}
+body.subject-locked .era2{opacity:.35;transition:opacity .4s}body.subject-locked .era2.route-era{opacity:1}
+body.subject-locked .era2.route-era:after{content:"";position:absolute;left:0;right:0;top:50px;height:4px;background:#ff8a43;box-shadow:0 0 15px #ff6b22;z-index:1;animation:routeenergy 2.8s ease-in-out infinite}
+@keyframes routeenergy{0%,100%{opacity:.35}50%{opacity:1}}
+body.subject-locked .card{opacity:.42;filter:saturate(.4);transition:opacity .3s,filter .3s,border-color .3s}body.subject-locked .card.locked-dossier{opacity:1;filter:none;border-color:#ff8a43;box-shadow:0 0 35px #ff6b2222,0 16px 40px #000}
+body.subject-locked .threat{opacity:.35}body.subject-locked .threat.lockrelated{opacity:1;border-color:#ff8a43}
+.routebadge{position:absolute;right:7px;top:7px;z-index:8;background:#ff6b22;color:#160905;padding:3px 5px;font:5px ui-monospace,monospace;letter-spacing:.08em}
+@media(max-width:520px){.lockactions{flex-direction:column}.lockactions button{padding:5px}.lockscope b{font-size:15px;max-width:39vw}.lockmini{font-size:5px;padding:5px}.card summary{grid-template-columns:auto 1fr auto auto!important}.card summary>.lockmini{grid-column:3/5;width:100%;margin:2px 0 0}}
+@media(prefers-reduced-motion:reduce){body.subject-locked .era2.route-era:after{animation:none}}

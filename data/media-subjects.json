@@ -1,0 +1,618 @@
+[
+  {
+    "characterId": "dossier-001",
+    "name": "Tony Stark",
+    "screenPage": "Tony Stark (Marvel Cinematic Universe)",
+    "actorPage": "Robert Downey Jr.",
+    "comicPage": "Iron Man"
+  },
+  {
+    "characterId": "dossier-002",
+    "name": "Steve Rogers",
+    "screenPage": "Steve Rogers (Marvel Cinematic Universe)",
+    "actorPage": "Chris Evans (actor)",
+    "comicPage": "Captain America"
+  },
+  {
+    "characterId": "dossier-003",
+    "name": "Bruce Banner",
+    "screenPage": "Bruce Banner (Marvel Cinematic Universe)",
+    "actorPage": "Mark Ruffalo",
+    "comicPage": "Hulk"
+  },
+  {
+    "characterId": "dossier-004",
+    "name": "Thor",
+    "screenPage": "Thor (Marvel Cinematic Universe)",
+    "actorPage": "Chris Hemsworth",
+    "comicPage": "Thor (Marvel Comics)"
+  },
+  {
+    "characterId": "dossier-005",
+    "name": "Natasha Romanoff",
+    "screenPage": "Natasha Romanoff (Marvel Cinematic Universe)",
+    "actorPage": "Scarlett Johansson",
+    "comicPage": "Black Widow (Natasha Romanova)"
+  },
+  {
+    "characterId": "dossier-006",
+    "name": "Clint Barton",
+    "screenPage": "Clint Barton (Marvel Cinematic Universe)",
+    "actorPage": "Jeremy Renner",
+    "comicPage": "Hawkeye (Clint Barton)"
+  },
+  {
+    "characterId": "dossier-007",
+    "name": "James Rhodes",
+    "screenPage": "James Rhodes (Marvel Cinematic Universe)",
+    "actorPage": "Don Cheadle",
+    "comicPage": "War Machine"
+  },
+  {
+    "characterId": "dossier-008",
+    "name": "Scott Lang",
+    "screenPage": "Scott Lang (Marvel Cinematic Universe)",
+    "actorPage": "Paul Rudd",
+    "comicPage": "Ant-Man (Scott Lang)"
+  },
+  {
+    "characterId": "dossier-009",
+    "name": "Carol Danvers",
+    "screenPage": "Carol Danvers (Marvel Cinematic Universe)",
+    "actorPage": "Brie Larson",
+    "comicPage": "Carol Danvers"
+  },
+  {
+    "characterId": "dossier-010",
+    "name": "Nebula",
+    "screenPage": "Nebula (Marvel Cinematic Universe)",
+    "actorPage": "Karen Gillan",
+    "comicPage": "Nebula (character)"
+  },
+  {
+    "characterId": "dossier-011",
+    "name": "Rocket",
+    "screenPage": "Rocket (Marvel Cinematic Universe)",
+    "actorPage": "Bradley Cooper",
+    "comicPage": "Rocket Raccoon"
+  },
+  {
+    "characterId": "dossier-012",
+    "name": "Pepper Potts",
+    "screenPage": "Pepper Potts (Marvel Cinematic Universe)",
+    "actorPage": "Gwyneth Paltrow",
+    "comicPage": "Pepper Potts"
+  },
+  {
+    "characterId": "dossier-013",
+    "name": "Thanos",
+    "screenPage": "Thanos (Marvel Cinematic Universe)",
+    "actorPage": "Josh Brolin",
+    "comicPage": "Thanos"
+  },
+  {
+    "characterId": "dossier-014",
+    "name": "Thanos (2014)",
+    "screenPage": "Thanos (Marvel Cinematic Universe)",
+    "actorPage": "Josh Brolin",
+    "comicPage": "Thanos"
+  },
+  {
+    "characterId": "dossier-015",
+    "name": "Gamora",
+    "screenPage": "Gamora (Marvel Cinematic Universe)",
+    "actorPage": "Zoe Saldaña",
+    "comicPage": "Gamora"
+  },
+  {
+    "characterId": "dossier-016",
+    "name": "Peter Quill",
+    "screenPage": "Peter Quill (Marvel Cinematic Universe)",
+    "actorPage": "Chris Pratt",
+    "comicPage": "Star-Lord"
+  },
+  {
+    "characterId": "dossier-017",
+    "name": "Peter Parker",
+    "screenPage": "Peter Parker (Marvel Cinematic Universe)",
+    "actorPage": "Tom Holland",
+    "comicPage": "Spider-Man"
+  },
+  {
+    "characterId": "dossier-018",
+    "name": "Stephen Strange",
+    "screenPage": "Stephen Strange (Marvel Cinematic Universe)",
+    "actorPage": "Benedict Cumberbatch",
+    "comicPage": "Doctor Strange"
+  },
+  {
+    "characterId": "dossier-019",
+    "name": "Wong",
+    "screenPage": "Wong (Marvel Cinematic Universe)",
+    "actorPage": "Benedict Wong",
+    "comicPage": "Wong (Marvel Comics)"
+  },
+  {
+    "characterId": "dossier-020",
+    "name": "T’Challa",
+    "screenPage": "T'Challa (Marvel Cinematic Universe)",
+    "actorPage": "Chadwick Boseman",
+    "comicPage": "Black Panther (Marvel Comics)"
+  },
+  {
+    "characterId": "dossier-021",
+    "name": "Shuri",
+    "screenPage": "Shuri (Marvel Cinematic Universe)",
+    "actorPage": "Letitia Wright",
+    "comicPage": "Shuri (character)"
+  },
+  {
+    "characterId": "dossier-022",
+    "name": "Okoye",
+    "screenPage": "Okoye (Marvel Cinematic Universe)",
+    "actorPage": "Danai Gurira",
+    "comicPage": "Okoye"
+  },
+  {
+    "characterId": "dossier-023",
+    "name": "M’Baku",
+    "screenPage": "M'Baku (Marvel Cinematic Universe)",
+    "actorPage": "Winston Duke",
+    "comicPage": "M'Baku"
+  },
+  {
+    "characterId": "dossier-024",
+    "name": "Wanda Maximoff",
+    "screenPage": "Wanda Maximoff (Marvel Cinematic Universe)",
+    "actorPage": "Elizabeth Olsen",
+    "comicPage": "Scarlet Witch"
+  },
+  {
+    "characterId": "dossier-025",
+    "name": "Sam Wilson",
+    "screenPage": "Sam Wilson (Marvel Cinematic Universe)",
+    "actorPage": "Anthony Mackie",
+    "comicPage": "Sam Wilson"
+  },
+  {
+    "characterId": "dossier-026",
+    "name": "Bucky Barnes",
+    "screenPage": "Bucky Barnes (Marvel Cinematic Universe)",
+    "actorPage": "Sebastian Stan",
+    "comicPage": "Bucky Barnes"
+  },
+  {
+    "characterId": "dossier-027",
+    "name": "Hope van Dyne",
+    "screenPage": "Hope van Dyne (Marvel Cinematic Universe)",
+    "actorPage": "Evangeline Lilly",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-028",
+    "name": "Hank Pym",
+    "screenPage": "Hank Pym (Marvel Cinematic Universe)",
+    "actorPage": "Michael Douglas",
+    "comicPage": "Hank Pym"
+  },
+  {
+    "characterId": "dossier-029",
+    "name": "Janet van Dyne",
+    "screenPage": "Janet van Dyne (Marvel Cinematic Universe)",
+    "actorPage": "Michelle Pfeiffer",
+    "comicPage": "Wasp (character)"
+  },
+  {
+    "characterId": "dossier-030",
+    "name": "Cassie Lang",
+    "screenPage": "Cassie Lang (Marvel Cinematic Universe)",
+    "actorPage": "Emma Fuhrmann",
+    "comicPage": "Cassie Lang"
+  },
+  {
+    "characterId": "dossier-031",
+    "name": "Drax",
+    "screenPage": "Drax (Marvel Cinematic Universe)",
+    "actorPage": "Dave Bautista",
+    "comicPage": "Drax the Destroyer"
+  },
+  {
+    "characterId": "dossier-032",
+    "name": "Mantis",
+    "screenPage": "Mantis (Marvel Cinematic Universe)",
+    "actorPage": "Pom Klementieff",
+    "comicPage": "Mantis (Marvel Comics)"
+  },
+  {
+    "characterId": "dossier-033",
+    "name": "Groot",
+    "screenPage": "Groot (Marvel Cinematic Universe)",
+    "actorPage": "Vin Diesel",
+    "comicPage": "Groot"
+  },
+  {
+    "characterId": "dossier-034",
+    "name": "Kraglin Obfonteri",
+    "screenPage": null,
+    "actorPage": "Sean Gunn",
+    "comicPage": "Kraglin"
+  },
+  {
+    "characterId": "dossier-035",
+    "name": "Valkyrie",
+    "screenPage": "Valkyrie (Marvel Cinematic Universe)",
+    "actorPage": "Tessa Thompson",
+    "comicPage": "Valkyrie (Marvel Comics)"
+  },
+  {
+    "characterId": "dossier-036",
+    "name": "Korg",
+    "screenPage": "Korg (Marvel Cinematic Universe)",
+    "actorPage": "Taika Waititi",
+    "comicPage": "Korg (character)"
+  },
+  {
+    "characterId": "dossier-037",
+    "name": "Howard the Duck",
+    "screenPage": null,
+    "actorPage": "Seth Green",
+    "comicPage": "Howard the Duck"
+  },
+  {
+    "characterId": "dossier-038",
+    "name": "Happy Hogan",
+    "screenPage": "Happy Hogan (Marvel Cinematic Universe)",
+    "actorPage": "Jon Favreau",
+    "comicPage": "Happy Hogan"
+  },
+  {
+    "characterId": "dossier-039",
+    "name": "May Parker",
+    "screenPage": "May Parker (Marvel Cinematic Universe)",
+    "actorPage": "Marisa Tomei",
+    "comicPage": "Aunt May"
+  },
+  {
+    "characterId": "dossier-040",
+    "name": "Ned Leeds",
+    "screenPage": null,
+    "actorPage": "Jacob Batalon",
+    "comicPage": "Ned Leeds"
+  },
+  {
+    "characterId": "dossier-041",
+    "name": "Morgan Stark",
+    "screenPage": null,
+    "actorPage": "Lexi Rabe",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-042",
+    "name": "Harley Keener",
+    "screenPage": null,
+    "actorPage": "Ty Simpkins",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-043",
+    "name": "Nick Fury",
+    "screenPage": "Nick Fury (Marvel Cinematic Universe)",
+    "actorPage": "Samuel L. Jackson",
+    "comicPage": "Nick Fury"
+  },
+  {
+    "characterId": "dossier-044",
+    "name": "Maria Hill",
+    "screenPage": null,
+    "actorPage": "Cobie Smulders",
+    "comicPage": "Maria Hill"
+  },
+  {
+    "characterId": "dossier-045",
+    "name": "Thaddeus Ross",
+    "screenPage": null,
+    "actorPage": "William Hurt",
+    "comicPage": "Thunderbolt Ross"
+  },
+  {
+    "characterId": "dossier-046",
+    "name": "Laura Barton",
+    "screenPage": null,
+    "actorPage": "Linda Cardellini",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-047",
+    "name": "Lila Barton",
+    "screenPage": null,
+    "actorPage": "Ava Russo",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-048",
+    "name": "Cooper Barton",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-049",
+    "name": "Nathaniel Barton",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-050",
+    "name": "Loki (2012 variant)",
+    "screenPage": "Loki (Marvel Cinematic Universe)",
+    "actorPage": "Tom Hiddleston",
+    "comicPage": "Loki (Marvel Comics)"
+  },
+  {
+    "characterId": "dossier-051",
+    "name": "Loki (2013)",
+    "screenPage": "Loki (Marvel Cinematic Universe)",
+    "actorPage": "Tom Hiddleston",
+    "comicPage": "Loki (Marvel Comics)"
+  },
+  {
+    "characterId": "dossier-052",
+    "name": "Frigga",
+    "screenPage": null,
+    "actorPage": "Rene Russo",
+    "comicPage": "Frigga (character)"
+  },
+  {
+    "characterId": "dossier-053",
+    "name": "Jane Foster",
+    "screenPage": "Jane Foster (Marvel Cinematic Universe)",
+    "actorPage": "Natalie Portman",
+    "comicPage": "Jane Foster"
+  },
+  {
+    "characterId": "dossier-054",
+    "name": "Howard Stark",
+    "screenPage": null,
+    "actorPage": "John Slattery",
+    "comicPage": "Howard Stark"
+  },
+  {
+    "characterId": "dossier-055",
+    "name": "Edwin Jarvis",
+    "screenPage": null,
+    "actorPage": "James D’Arcy",
+    "comicPage": "Edwin Jarvis"
+  },
+  {
+    "characterId": "dossier-056",
+    "name": "Peggy Carter",
+    "screenPage": "Peggy Carter (Marvel Cinematic Universe)",
+    "actorPage": "Hayley Atwell",
+    "comicPage": "Peggy Carter"
+  },
+  {
+    "characterId": "dossier-057",
+    "name": "The Ancient One",
+    "screenPage": null,
+    "actorPage": "Tilda Swinton",
+    "comicPage": "Ancient One"
+  },
+  {
+    "characterId": "dossier-058",
+    "name": "Alexander Pierce",
+    "screenPage": null,
+    "actorPage": "Robert Redford",
+    "comicPage": "Alexander Pierce"
+  },
+  {
+    "characterId": "dossier-059",
+    "name": "Jasper Sitwell",
+    "screenPage": null,
+    "actorPage": "Maximiliano Hernández",
+    "comicPage": "Jasper Sitwell"
+  },
+  {
+    "characterId": "dossier-060",
+    "name": "Brock Rumlow",
+    "screenPage": null,
+    "actorPage": "Frank Grillo",
+    "comicPage": "Crossbones (character)"
+  },
+  {
+    "characterId": "dossier-061",
+    "name": "Jack Rollins",
+    "screenPage": null,
+    "actorPage": "Callan Mulvey",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-062",
+    "name": "Johann Schmidt",
+    "screenPage": null,
+    "actorPage": "Ross Marquand",
+    "comicPage": "Red Skull"
+  },
+  {
+    "characterId": "dossier-063",
+    "name": "Ebony Maw",
+    "screenPage": null,
+    "actorPage": "Tom Vaughan-Lawlor",
+    "comicPage": "Ebony Maw"
+  },
+  {
+    "characterId": "dossier-064",
+    "name": "Proxima Midnight",
+    "screenPage": null,
+    "actorPage": "Carrie Coon",
+    "comicPage": "Proxima Midnight"
+  },
+  {
+    "characterId": "dossier-065",
+    "name": "Corvus Glaive",
+    "screenPage": null,
+    "actorPage": "Michael James Shaw",
+    "comicPage": "Corvus Glaive"
+  },
+  {
+    "characterId": "dossier-066",
+    "name": "Cull Obsidian",
+    "screenPage": null,
+    "actorPage": "Terry Notary",
+    "comicPage": "Black Dwarf (character)"
+  },
+  {
+    "characterId": "dossier-067",
+    "name": "Akihiko",
+    "screenPage": null,
+    "actorPage": "Hiroyuki Sanada",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-068",
+    "name": "Storage Facility Guard",
+    "screenPage": null,
+    "actorPage": "Ken Jeong",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-069",
+    "name": "S.H.I.E.L.D. Agent (1970)",
+    "screenPage": null,
+    "actorPage": "Yvette Nicole Brown",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-070",
+    "name": "Camp Lehigh Guard",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-071",
+    "name": "Asgardian Maiden",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-072",
+    "name": "Grieving Man",
+    "screenPage": null,
+    "actorPage": "Joe Russo",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-073",
+    "name": "Support Group Man #1",
+    "screenPage": null,
+    "actorPage": "Jim Starlin",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-074",
+    "name": "Lia",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-075",
+    "name": "Julian",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-076",
+    "name": "Taylor",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-077",
+    "name": "Augie",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-078",
+    "name": "1970 Driver",
+    "screenPage": null,
+    "actorPage": "Stan Lee",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-079",
+    "name": "F.R.I.D.A.Y.",
+    "screenPage": null,
+    "actorPage": "Kerry Condon",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-080",
+    "name": "Queen Ramonda",
+    "screenPage": null,
+    "actorPage": "Angela Bassett",
+    "comicPage": "Ramonda"
+  },
+  {
+    "characterId": "dossier-081",
+    "name": "Military Police",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-082",
+    "name": "Male S.H.I.E.L.D. Agent",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-083",
+    "name": "Car Girl",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-084",
+    "name": "Mobius M. Mobius",
+    "screenPage": "Mobius M. Mobius (Marvel Cinematic Universe)",
+    "actorPage": "Owen Wilson",
+    "comicPage": "Mobius M. Mobius"
+  },
+  {
+    "characterId": "dossier-085",
+    "name": "Ouroboros",
+    "screenPage": null,
+    "actorPage": "Ke Huy Quan",
+    "comicPage": "Ouroboros (comics)"
+  },
+  {
+    "characterId": "dossier-086",
+    "name": "Casey",
+    "screenPage": null,
+    "actorPage": "Eugene Cordero",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-087",
+    "name": "Miss Minutes",
+    "screenPage": null,
+    "actorPage": "Tara Strong",
+    "comicPage": null
+  },
+  {
+    "characterId": "dossier-088",
+    "name": "Victor von Doom",
+    "screenPage": null,
+    "actorPage": null,
+    "comicPage": "Doctor Doom"
+  }
+]
